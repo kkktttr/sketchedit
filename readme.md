@@ -40,11 +40,15 @@ conda activate editline
 ./demo_celeb.sh
 ```
 
+then open localhost:8897 in the browser
+
 2. model trained on places
 
 ```
 ./demo_places.sh
 ```
+
+then open localhost:8898 in the browser
 
 
 You may change the configuration by modifying these bash scripts. 
