@@ -6,4 +6,4 @@ python demo.py \
 	--pool_type max \
 	--use_cam \
         --which_epoch latest \
-	--port 8897 \
+	--port 8000 \

@@ -7,4 +7,4 @@ python demo.py \
 	--joint_train_inp \
 	--use_cam \
         --which_epoch latest \
-	--port 8898 \
+	--port 8001 \
